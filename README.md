@@ -40,7 +40,9 @@ python api.py
 
 ## 📋Error Handling
 If the API key is missing or invalid, you will receive a 403 Forbidden response.
+
 Invalid requests (e.g., missing parameters) will result in a 400 Bad Request response.
+
 Server errors (e.g., DNS resolution issues) will result in a 500 Internal Server Error response.
 
 ## 📜 Logging
