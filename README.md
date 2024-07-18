@@ -46,6 +46,11 @@ Server errors (e.g., DNS resolution issues) will result in a 500 Internal Server
 ## 📜 Logging
 All API requests are logged to api_requests.log, including IP address, country, timestamp, status code, and response details.
 
+## 📜 Todo
+- Logs need to be in a database
+- API-Keys need to be in a database
+
+
 ## Disclaimer
 This project is for educational purposes only. Misuse of this software for malicious purposes is strictly prohibited.
 
